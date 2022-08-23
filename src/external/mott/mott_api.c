@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<limits.h>
 #include<math.h>
+#include<stdlib.h>
+#include<ctype.h>
 #include"gapstat.h"
 
 double default_lambda0, default_K0, default_Kplus, default_H, default_r, default_s, default_alpha;

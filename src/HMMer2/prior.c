@@ -4,6 +4,7 @@
  * Support for Dirichlet prior data structure, p7prior_s.
  */
 
+#include <string.h>
 #include "config.h"
 #include "structs.h"
 #include "funcs.h" 
